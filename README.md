@@ -18,7 +18,7 @@ I'm [Max Homsi](https://maxhomsi.github.io/myportfolio/), I'm an student of full
  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">  </code> 
  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code><code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> <code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code><code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   </div>
   </p>
 
@@ -37,12 +37,12 @@ I'm [Max Homsi](https://maxhomsi.github.io/myportfolio/), I'm an student of full
 
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
+  [![Website Badge](https://img.shields.io/badge/-anushkaverma.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://verma-anushka.github.io/anushkaverma/)](https://verma-anushka.github.io/anushkaverma/) 
+   [![Website Badge](https://img.shields.io/badge/-Portfolio.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=(https://maxhomsi.github.io/myportfolio/)]((https://maxhomsi.github.io/myportfolio/) 
+   [![Linkedin Badge](https://img.shields.io/badge/-maxhomsi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxhomsi/)](https://www.linkedin.com/in/maxhomsi/) 
   
-   [![Website Badge](https://img.shields.io/badge/-anushkaverma.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=(https://maxhomsi.github.io/myportfolio/)]((https://maxhomsi.github.io/myportfolio/) 
-   [![Linkedin Badge](https://img.shields.io/badge/-anushkaverma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxhomsi/)](https://www.linkedin.com/in/maxhomsi/) 
-  
-   [![Gmail Badge](https://img.shields.io/badge/-v.anushka786-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maxhomsi@gmail.com)](mailto:maxhomsi@gmail.com)
-   [![Instagram Badge](https://img.shields.io/badge/-@v_anushkaa-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ximilis)](https://instagram.com/ximilis) 
+   [![Gmail Badge](https://img.shields.io/badge/-maxhomsi-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maxhomsi@gmail.com)](mailto:maxhomsi@gmail.com)
+   [![Instagram Badge](https://img.shields.io/badge/-@ximilis-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ximilis)](https://instagram.com/ximilis) 
    [![Facebook Badge](https://img.shields.io/badge/-verma_anushka-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/ximilis/)](hhttps://www.facebook.com/ximilis/)
    
   <p align="center">
