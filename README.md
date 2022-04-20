@@ -30,6 +30,10 @@ I'm [Max Homsi](https://maxhomsi.github.io/myportfolio/), I'm an student of full
   
   <img src="https://github-readme-stats.vercel.app/api?username=maxhomsi&hide=stars&show_icons=true&theme=dracula&line_height=32">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxhomsi&count_public=true&theme=dracula"><br>
+ 
+ ![Snake animation](https://github.com/RobertCardoso/RobertCardoso/blob/output/github-contribution-grid-snake.svg)
+
+  ![Snake animation](https://github.com/RobertCardoso/RobertCardoso/blob/output/github-contribution-grid-snake.svg)
  <br>
 
 </p>
