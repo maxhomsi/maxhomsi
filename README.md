@@ -14,7 +14,7 @@ I'm [Max Homsi](https://maxhomsi.github.io/myportfolio/), I'm an student of full
 
   <div align="center">
   
- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
+ <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML"></code> 
  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
  <code><img height="40" src="https://icons.iconarchive.com/icons/martz90/hex/512/wordpress-icon.png"></code>
    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">  </code> 
