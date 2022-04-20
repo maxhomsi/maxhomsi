@@ -36,6 +36,7 @@ I'm [Max Homsi](https://maxhomsi.github.io/myportfolio/), I'm an student of full
  
  
   ![Snake animation](https://github.com/maxhomsi/maxhomsi/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/maxhomsi/maxhomsi/blob/output/github-contribution-grid-snake.svg)
  <br>
 
 </p>
