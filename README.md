@@ -38,8 +38,8 @@ I'm [Max Homsi](https://maxhomsi.github.io/myportfolio/), I'm an student of full
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
  
- [![Website Badge](https://img.shields.io/badge/-anushkaverma.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://verma-anushka.github.io/anushkaverma/)](https://verma-anushka.github.io/anushkaverma/) 
-   [![Linkedin Badge](https://img.shields.io/badge/-anushkaverma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushkaverma/)](https://www.linkedin.com/in/anushkaverma/) 
+ [![Website Badge](https://img.shields.io/badge/-maxhomsi.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://maxhomsi.github.io/myportfolio/)](https://maxhomsi.github.io/myportfolio/) 
+   [![Linkedin Badge](https://img.shields.io/badge/-Max_Homsi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxhomsi/)](https://www.linkedin.com/in/maxhomsi/) 
  
    [![Website Badge](https://img.shields.io/badge/-Portfolio.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=(https://maxhomsi.github.io/myportfolio/)]((https://maxhomsi.github.io/myportfolio/) 
    [![Linkedin Badge](https://img.shields.io/badge/-maxhomsi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxhomsi/)](https://www.linkedin.com/in/maxhomsi/) 
