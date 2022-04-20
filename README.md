@@ -33,12 +33,10 @@ I'm [Max Homsi](https://maxhomsi.github.io/myportfolio/), I'm an student of full
  <br>
  ![Snake animation](https://github.com/maxhomsi/maxhomsi/blob/output/github-contribution-grid-snake.svg)
   
- ![Snake animation](https://github.com/RobertCardoso/RobertCardoso/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/maxhomsi/maxhomsi/blob/output/github-contribution-grid-snake.svg)
 
 </p>
-<div align="center"><br>
- ![Snake animation](https://github.com/RobertCardoso/RobertCardoso/blob/output/github-contribution-grid-snake.svg)
-  </div>
+
 ---
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
