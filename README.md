@@ -39,10 +39,7 @@ I'm [Max Homsi](https://maxhomsi.github.io/myportfolio/), I'm an student of full
   <i>Let's connect and chat! Find me on the web...</i>
  
  [![Website Badge](https://img.shields.io/badge/-maxhomsi.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://maxhomsi.github.io/myportfolio/)](https://maxhomsi.github.io/myportfolio/) 
-   [![Linkedin Badge](https://img.shields.io/badge/-Max_Homsi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxhomsi/)](https://www.linkedin.com/in/maxhomsi/) 
- 
-   [![Website Badge](https://img.shields.io/badge/-Portfolio.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=(https://maxhomsi.github.io/myportfolio/)]((https://maxhomsi.github.io/myportfolio/) 
-   [![Linkedin Badge](https://img.shields.io/badge/-maxhomsi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxhomsi/)](https://www.linkedin.com/in/maxhomsi/) 
+   [![Linkedin Badge](https://img.shields.io/badge/-Max_Homsi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxhomsi/)](https://www.linkedin.com/in/maxhomsi/)
   
    [![Gmail Badge](https://img.shields.io/badge/-maxhomsi-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maxhomsi@gmail.com)](mailto:maxhomsi@gmail.com)
    [![Instagram Badge](https://img.shields.io/badge/-@ximilis-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ximilis)](https://instagram.com/ximilis) 
