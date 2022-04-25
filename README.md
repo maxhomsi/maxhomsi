@@ -45,7 +45,7 @@ I'm [Max Homsi](https://maxhomsi.github.io/portfolio/), I'm an student of full s
   <i>Let's connect and chat! Find me on the web...</i>
 </p>
 
- [![Website Badge](https://img.shields.io/badge/-maxhomsi.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://maxhomsi.github.io/portfolio/)](https://maxhomsi.github.io/portfolio/) 
+ [![Website Badge](https://img.shields.io/badge/-My.Portfolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://maxhomsi.github.io/portfolio/)](https://maxhomsi.github.io/portfolio/) 
    [![Linkedin Badge](https://img.shields.io/badge/-Max_Homsi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxhomsi/)](https://www.linkedin.com/in/maxhomsi/)
   [![Gmail Badge](https://img.shields.io/badge/-maxhomsi-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maxhomsi@gmail.com)](mailto:maxhomsi@gmail.com)
    [![Instagram Badge](https://img.shields.io/badge/-@ximilis-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ximilis)](https://instagram.com/ximilis) 
