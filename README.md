@@ -22,7 +22,7 @@ I'm [Max Homsi](https://maxhomsi.github.io/portfolio/), I'm an student of full s
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="Node JS"></code>
    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" title="MySQL"></code> 
    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="GIT"></code>
-    <code><img height="40" src=" https://justinmahar.gallerycdn.vsassets.io/extensions/justinmahar/react-icons-snippets/1.0.4/1623101852807/Microsoft.VisualStudio.Services.Icons.Default" title="GIT"></code>
+    <code><img height="40" src=" [https://justinmahar.gallerycdn.vsassets.io/extensions/justinmahar/react-icons-snippets/1.0.4/1623101852807/Microsoft.VisualStudio.Services.Icons.Default](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3Djustinmahar.react-icons-snippets&psig=AOvVaw233JIToi8Wd4fMg2HGmz2T&ust=1666011524891000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLiy7trm5PoCFQAAAAAdAAAAABAE)" title="GIT"></code>
   </div>
   </p>
 ---
