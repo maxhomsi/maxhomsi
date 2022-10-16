@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Max Homsi](https://maxhomsi.github.io/portfolio/), I'm an student of full stack web developer. a demonstrated history of working in the information technology and services industry.
+I'm [Max Homsi](https://maxhomsi.github.io/portfolio/), I'm a recent graduate as a full stack web developer and I am looking opportunities. 
 
 ---
 
