@@ -22,9 +22,9 @@ I'm [Max Homsi](https://maxhomsi.github.io/portfolio/), I'm an student of full s
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="Node JS"></code>
    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" title="MySQL"></code> 
    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="GIT"></code>
+    <code><img height="40" src=" https://justinmahar.gallerycdn.vsassets.io/extensions/justinmahar/react-icons-snippets/1.0.4/1623101852807/Microsoft.VisualStudio.Services.Icons.Default" title="GIT"></code>
   </div>
   </p>
-
 ---
 
 **Github Stats:**
