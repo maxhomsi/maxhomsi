@@ -34,10 +34,13 @@ I'm [Max Homsi](https://maxhomsi.github.io/portfolio/), I'm a recent graduate as
   <img src="https://github-readme-stats.vercel.app/api?username=maxhomsi&hide=stars&show_icons=true&theme=dracula&line_height=32">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxhomsi&count_public=true&theme=dracula"><br>
  
- 
-  ![Snake animation](https://github.com/maxhomsi/maxhomsi/blob/output/github-contribution-grid-snake.svg)
- <br>
+</p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maxhomsi/maxhomsi/output/github-contribution-grid-snake-dark.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/maxhomsi/maxhomsi/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
@@ -54,11 +57,10 @@ I'm [Max Homsi](https://maxhomsi.github.io/portfolio/), I'm a recent graduate as
   <p align="center">
     Show ❤️ by starring repositories you find good! 
     <br />
-    ⭐️ From [Max Homsi](https://github.com/maxhomsi)
+    ⭐️ From <a href="https://github.com/maxhomsi">Max Homsi</a>
     <br />
     Also, star and fork this repository if you wish to give this new feature a try!
   </p>
-</p>
 
 <div align="right">
   
@@ -66,20 +68,3 @@ I'm [Max Homsi](https://maxhomsi.github.io/portfolio/), I'm a recent graduate as
   [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://maxhomsi.github.io/portfolio/)
 
 </div>
-
-
-
-<!--
-**maxhomsi/maxhomsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
